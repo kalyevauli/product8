@@ -200,7 +200,7 @@ body.dark p {
     top: 105px;
 }
 .menu{
-    display: none;
+    display: block;
 }
 #menu__toggle {
     opacity: 0;
@@ -259,7 +259,7 @@ body.dark p {
     position: fixed;
     visibility: hidden;
     top: 0;
-    right: -100%;
+    right: 100%;
     width: 300px;
     height: 100%;
     margin: 0;
